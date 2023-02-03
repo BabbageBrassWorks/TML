@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="86" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Fri Feb  3 19:00:12 2023
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Fri Feb  3 19:00:12 2023
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="50" edit-time="7290" last-saved="1675414812" uid="99de4954-9bcd-11ed-806c-882ba1434ae0">
+<version id="46" started="1674554322" uid="5604c936-9bde-11ed-806c-882ba1434ae0" auto="0" top-xid="2"/>
+<version id="50" started="1675414740" uid="2b13d88c-a3a1-11ed-98cd-c75c6a053adb" auto="0" top-xid="84"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-bottom:0pt; font-weight:normal; line-height:1.0; text-align:left; font-variant:normal; text-decoration:none; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="1" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal" xid="2"><c props="font-size:72pt">Tartarian</c><c props="font-size:72pt"></c></p>
+<p style="Normal" xid="14"><c props="font-size:72pt"></c><c props="font-size:72pt">Myths</c></p>
+<p style="Normal" xid="15"><c props="font-size:72pt"></c><c props="font-size:72pt">and </c></p>
+<p style="Normal" xid="16"><c props="font-size:72pt"></c><c props="font-size:72pt">Legends </c></p>
+<p style="Normal" xid="17"><c props="font-size:72pt"></c><c></c></p>
+<p style="Normal" xid="3"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="10"><c props="font-size:16pt"></c><c props="font-size:36pt">by A.S. Ekret</c></p>
+<p style="Normal" xid="4"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="5"><c props="font-size:16pt"></c><c></c></p>
+</section>
+<section xid="12">
+<p style="Normal" xid="11"><c props="font-size:16pt"><pbr/></c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="13"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="6"><c props="font-weight:bold; font-size:16pt">Foreward</c><c props="font-weight:bold; font-size:16pt"></c></p>
+<p style="Normal" xid="40"><c props="font-weight:bold; font-size:16pt"></c><c props="font-size:16pt"> </c></p>
+<p style="Normal" xid="19"><c props="font-size:16pt">There are those that say this book is all a fable but not those who have seen him or have been sent to Delphi.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="21"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="20"><c props="font-size:16pt">Those that come back are no longer believers in fantasy, they have seen for themselves the alternative futures of humans without the Immortal one. In all of human history and the histories before humans, none was found to be so worthy at that time. Some say he was cursed, others say he was blessed.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="24"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="25"><c props="font-size:16pt">That he is alive can be testified by those who have seen him, there is no mistaking him for what he is, the Chosen One.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="26"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="28"><c props="font-size:16pt">Those who defy him, learned to fear his Black Banner and Golden Horde. Those conquered by him and his army, prosper and grow mighty.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="30"><c props="font-size:16pt">But there is no forever peace, nor is it forever war.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="32"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="35"><c props="font-size:16pt">The Balance is like a three legged stool with legs of three colours Red, Blue and Green. Only the black banner has more power, but it is restrained power wielded by one who was born mortal 700 hundred years ago and who has been a warrior and military leader unsurpassed in strategy or martial skills and is now immortal.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="36"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="37"><c props="font-size:16pt">His death is not allowed by those who watch and guard, they have seen the alternatives. It is not yet his time and so the game of balance is still being played.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="38"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="39"><c props="font-size:16pt">His Kingdom was named Tartar, it no longer exists except in Myths and Legends. Yet it spans half the globe, but he rules none of it, or all of it depending on your viewpoint or his wishes.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="34"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="33"><c props="font-size:16pt">One sage from an alternative timeline has spoken these words, “I reject your reality and substitute  my own”.  Here is the reality we now live in and how it happened.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="85"><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="86"><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="66"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="27"><c props="font-weight:bold; font-size:20pt">Chapter 1</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="42"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="43"><c props="font-size:16pt">The beginning is a long time ago, but this is not a time to dwell on the past. The present is where we live and how we got to where we are is important for understanding our current reality.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="44"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="45"><c props="font-size:16pt">He was born 1162 years after the last chosen one.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="47"><c props="font-size:16pt">From youth his fighting skills and more importantly his grasp of military tactics made him stand out and be noticed  by those who watch.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="48"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="49"><c props="font-size:16pt">Terror proceeded him in his conquests but that was nothing new to the watchers, they had seen that many times before. What made him interesting was the peace that followed his conquests.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="46"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="50"><c props="font-size:16pt">For decades they watched, they saw what was going to happen once he passed on. Near the end of his time they came to him and showed him what the future was going to be and asked his permission to change him.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="51"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="52"><c props="font-size:16pt">It was a decision he regrets but he has many times been shown alternative timelines and has for 700 years proven to be worthy.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="22"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="53"><c props="font-size:16pt">Keeping the balance has both retarded and advanced progress.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="54"><c props="font-size:16pt">There have been many who have wanted to advance faster and many who want to go back to the old ways.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="23"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="55"><c props="font-size:16pt">Playing one side of the Great Triad against the others means no one of the three Empires rules above the other two.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="56"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="57"><c props="font-size:16pt">How the three Empires came to be is the history of our timeline.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="7"><c props="font-size:16pt">It began in the era of the last chosen one.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="58"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="59"><c props="font-size:16pt">At that time the Empire was the Roman Empire, the Empire in the East was known but trade and interaction was sparse. In between was that future land of the Tartars, a diverse people not of the east or the west but of wide open plains, snow and mountains.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="8"><c props="font-size:16pt">Many times the Roman Empire tried to expand north and east but were beaten by those fierce warriors of the north and the equally fierce deserts of the east and south.  </c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="60"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="61"><c props="font-size:16pt">Instead they conquered westward, if conquer can be called what happened. Having learned how not to conquer they instead expanded the Pax Romana to include the barbarians beyond the wall. Those barbarians became citizens of the Empire and the Purple Emperor was eventually replaced by the Emerald Emperor as power shifted to the younger survivors of a more ancient people full of vigor and superior skills in working metal, trade and sailing.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="68"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="62"><c props="font-size:16pt">The Pax Romana has lasted nearly 2000 years and it eventually led to recognition of the Blue “Tartarian” Empire of the north and east and the Red Imperials of the far Eastern Empire.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="64"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="65"><c props="font-size:16pt">It is not known how many of the Blue Empire are directly related to he whose is immortal. It can be said with some truth that he fathered an Empire, one that has never been conquered since.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="69"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="70"><c props="font-size:16pt">The time of conquest is over, the Pax still holds inside the three Empires, but outside those regions things are different. </c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="71"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="72"><c props="font-size:16pt">New lands were found and opened up by Empire explorers.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="73"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="74"><c props="font-size:16pt">The Emerald Empire kept expanding to the west across an ocean.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="82"><c props="font-size:16pt">The vast ocean distance triggered a technical explosion of distance eliminating methods of travel.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="78"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="75"><c props="font-size:16pt">The Red Imperials went south and eventually found a huge island immensely wealthy in resources even if lacking in water.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="76"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="81"><c props="font-size:16pt">The Blue Empire went North East across a small water gap and found a familiar frozen land filled with even more resources than they needed.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="80"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="79"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="77"><c props="font-size:16pt">Further to the South was an even larger piece of land, but the watchers had warned even the Immortal One that was a forbidden land.</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="83"><c props="font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="84"><c props="font-size:16pt"></c></p>
+</section>
+</abiword>
